@@ -7,7 +7,7 @@ use responsible.
 
 ____________________________________________________________________________________________________________________
 # Windows
-install python and a Thonny (or any other python workspace)
+install python and Thonny (or any other python workspace)
 paste code into a file (name it ?;@.py)
 make a .bat file and write this.
 
