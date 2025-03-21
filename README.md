@@ -11,9 +11,9 @@ install python and a Thonny (or any other python workspace)
 paste code into a file (name it ?;@.py)
 make a .bat file and paste this.
 
-@echo off
-python {YOUR_DIRECTORY}
-pause
+@echo off ---------------------------------------------------------
+python {YOUR_DIRECTORY} -------------------------------------------
+pause -------------------------------------------------------------
 
 run as adminstrator for the best effect.
 _____________________________________________________________________________________________________________________
