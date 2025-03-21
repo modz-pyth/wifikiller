@@ -7,9 +7,9 @@ use responsible.
 
 ____________________________________________________________________________________________________________________
 # Windows
-install python and Thonny (or any other python workspace)
-paste code into a file (name it ?;@.py)
-make a .bat file and write this.
+install python and Thonny (or any other python workspace).
+then paste code into a file (name it ?;@.py).
+after that make a .bat file and write this.
 
 @echo off (NEW LINE)
 python {YOUR_DIRECTORY} (NEW LINE)
