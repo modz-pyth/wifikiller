@@ -9,11 +9,6 @@ ________________________________________________________________________________
 # Windows
 install python and Thonny (or any other python workspace).
 then paste code into a file (name it ?;@.py).
-after that make a .bat file and write this.
-
-@echo off (NEW LINE)
-python {YOUR_DIRECTORY} (NEW LINE)
-pause (NEW LINE)
-
+after that make a .bat file and copy paste the .bat file code there
 run as adminstrator for the best effect.
 _____________________________________________________________________________________________________________________
